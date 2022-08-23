@@ -1,6 +1,8 @@
-# CustomDataloader-for-images-tabular-data-
+# For the python scripts in dataloader-images-in-csv folder 
 
 ![This is an image showing images printed from the dataloader](dataloader-images-in-csv/testing_dataloader.png)
+
+
 This code snippet will print the images from the dataloader (as shown in the image above)
 ```
 b=iter(train_loader)
